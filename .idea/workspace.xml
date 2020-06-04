@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc19590b-c631-4e4e-8ab8-8b8692a04d4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/airtravel.py" beforeDir="false" afterPath="$PROJECT_DIR$/airtravel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flask-getting-started" beforeDir="false" afterPath="$PROJECT_DIR$/flask-getting-started" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flask-getting-started/flashcards_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/flask-getting-started/flashcards_db.json" afterDir="false" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/airtravel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+            <state relative-caret-position="402">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -224,6 +223,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="274" y="23" width="1219" height="937" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19866444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -316,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/airtravel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+        <state relative-caret-position="402">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
