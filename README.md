@@ -17,5 +17,6 @@ brew install jupyter-notebook
 
 `Jupyter` - Jupyter is an acronym for Julia, Python and R but these days, other languages are also included such as Ruby.
 
-## Author: Chris Maxwell
-## GitHub:https://github.com/withchristopher/developer-portfolio
+## Author: 
+Chris Maxwell
+GitHub:[https://github.com/withchristopher/developer-portfolio]
