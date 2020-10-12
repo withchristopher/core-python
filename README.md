@@ -3,7 +3,7 @@
 ## What is this?
 Collection of python scripts to execure micro-tasks such as the following:
 * Book Flights
-* Scrape Wikipedia data
+* Webex API
 * OAuth Token generator
 
 ## How to Use?
