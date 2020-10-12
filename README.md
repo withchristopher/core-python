@@ -4,12 +4,12 @@
 Collection of python scripts to execure micro-tasks such as the following:
 * Book Flights
 * Scrape Wikipedia data
+* OAuth Token generator
 
 ## How to Use?
 Setup Python3.7^ on local machine
 brew install jupyter-notebook 
 `git clone https://github.com/withchristopher/core-python.git`
-USe
 
 ### Background information on tools used:
 
